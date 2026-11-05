@@ -2,4 +2,3 @@ Laboratory work 6
 Git version control
 First changes
 Second changes for laboratory work
-Third changes for laboratory work
