@@ -1,1 +1,1 @@
-My first file for laboratory work 6
+Изменение из ветки branch2
